@@ -18,7 +18,6 @@ local frame = Instance.new("Frame")
 frame.Size = UDim2.new(0, 300, 0, 300)
 frame.Position = UDim2.new(0.5, -150, 0.5, -150)
 frame.BackgroundTransparency = 1 -- Làm trong suốt để thấy ảnh nền
-frame.ResetOnSpawn = false
 frame.Parent = screenGui
 
 -- Background Image
